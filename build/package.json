@@ -7,7 +7,7 @@
   "devDependencies": {},
   "dependencies": {
     "del": "^3.0.0",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-count": "^1.0.0",
     "gulp-zip": "^4.2.0",
     "gulp-crx-pack": "https://github.com/PavelVanecek/gulp-crx.git",
